@@ -1,0 +1,1 @@
+Variable Annotation and Async Resources
